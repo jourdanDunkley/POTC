@@ -1,0 +1,9 @@
+[submodule "POTC-contracts/lib/solmate"]
+	path = POTC-contracts/lib/solmate
+	url = https://github.com/rari-capital/solmate
+[submodule "POTC-contracts/lib/openzeppelin-contracts"]
+	path = POTC-contracts/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "POTC-contracts/lib/forge-std"]
+	path = POTC-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

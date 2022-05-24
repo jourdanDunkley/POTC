@@ -1,0 +1,7 @@
+POTCTest:testBaseValues() (gas: 6283)
+POTCTest:testInitialSupply() (gas: 69389)
+POTCTest:testMintJam() (gas: 16553732)
+POTCTest:testMintJamTwice() (gas: 133398)
+POTCTest:testMintPublic() (gas: 25505478)
+POTCTest:testMintPublicTwice() (gas: 125353)
+POTCTest:testWithdrawUnauthorized() (gas: 110291)

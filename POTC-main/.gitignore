@@ -1,0 +1,29 @@
+out/
+.vscode/
+.DS_Store
+cache
+
+node_modules
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+POTC-frontend/node_modules
+POTC-frontend/.pnp
+POTC-frontend/.pnp.js
+
+# testing
+POTC-frontend/coverage
+
+# production
+POTC-frontend/build
+
+# misc
+POTC-frontend.DS_Store
+POTC-frontend/.env.local
+POTC-frontend/.env.development.local
+POTC-frontend/.env.test.local
+POTC-frontend/.env.production.local
+
+POTC-frontend/npm-debug.log*
+POTC-frontend/yarn-debug.log*
+POTC-frontend/yarn-error.log*
